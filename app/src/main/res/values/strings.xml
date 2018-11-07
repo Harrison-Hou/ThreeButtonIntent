@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThreeButtonIntent</string>
+    <string name="first_button">About China</string>
+    <string name="second_button">About Australia</string>
+    <string name="third_button">About Americia</string>
+</resources>
